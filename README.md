@@ -54,7 +54,7 @@ before you print. You get a PDF and a preview, and, if you like, the file and an
 
 Every style is shown on **your own** photos before you choose.
 
-![The 15 styles](docs/styles.jpg)
+![The 16 styles](docs/styles.jpg)
 
 ## Little things, from real facts
 
